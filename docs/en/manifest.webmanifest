@@ -14,8 +14,8 @@
     }
   ],
   "start_url": "https://fieldguides.github.io/guide08/en/index.html",
-  "background_color": "#81C784",
+  "background_color": "#c44238",
   "display": "standalone",
-  "theme_color": "#81C784",
+  "theme_color": "#c44238",
   "publication": "manifest.json"
 }

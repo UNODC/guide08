@@ -1,0 +1,279 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Untitled Book",
+    "identifier": "urn:uuid:73b0c865-811c-6757-dde6-9ffdb2bafc33",
+    "author": {
+      "name": "Kotobee"
+    },
+    "publisher": {
+      "name": "N/A"
+    },
+    "language": [
+      "en"
+    ],
+    "modified": "2019-04-03T19:52:13.207Z",
+    "description": "No description available",
+    "rendition": {
+      "layout": "reflowable"
+    },
+    "rights": "Kotobee"
+  },
+  "readingOrder": [
+    {
+      "href": "EPUB/xhtml/raw/page-1.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/s2a4qa.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/s3zbw6.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/sgozdj.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page1.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page3.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page5.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page6.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page7.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page8.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page9.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page10.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/skv544.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/s5pk56.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page12.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page13.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page14.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/secnw7.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/s76zdl.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    }
+  ],
+  "resources": [
+    {
+      "href": "EPUB/xhtml/raw/contents.xhtml",
+      "type": "application/xhtml+xml",
+      "rel": "contents"
+    },
+    {
+      "href": "EPUB/xhtml/raw/contents.ncx",
+      "type": "application/x-dtbncx+xml"
+    },
+    {
+      "href": "EPUB/imgs/defaultCover.png",
+      "type": "image/png",
+      "height": 324,
+      "width": 250,
+      "rel": "cover"
+    },
+    {
+      "href": "EPUB/css/base.css",
+      "type": "text/css"
+    },
+    {
+      "href": "EPUB/css/global.css",
+      "type": "text/css"
+    },
+    {
+      "href": "META-INF/container.xml",
+      "type": "application/xml"
+    }
+  ],
+  "toc": [
+    {
+      "href": "EPUB/xhtml/raw/page-1.xhtml",
+      "title": "Title"
+    },
+    {
+      "href": "EPUB/xhtml/raw/s2a4qa.xhtml",
+      "title": "Inside Cover"
+    },
+    {
+      "href": "EPUB/xhtml/raw/s3zbw6.xhtml",
+      "title": "Front Page"
+    },
+    {
+      "href": "EPUB/xhtml/raw/sgozdj.xhtml",
+      "title": "Introduction"
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page.xhtml",
+      "title": "1. What is Chemical Waste"
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page1.xhtml",
+      "title": "2. International Legal Frameworks Relating to Chem.."
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page3.xhtml",
+      "title": "3. National Legislation"
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page5.xhtml",
+      "title": "4. Investigating Chemical Waste Crimes"
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page6.xhtml",
+      "title": "5. Sources of Information"
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page7.xhtml",
+      "title": "6. The Internet and Smuggling Chemical Waste"
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page8.xhtml",
+      "title": "7. Risk Profiling Chemical Waste Shipments"
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page9.xhtml",
+      "title": "8. Identification and Inspection of Chemical Waste"
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page10.xhtml",
+      "title": "9. The Search Kit"
+    },
+    {
+      "href": "EPUB/xhtml/raw/skv544.xhtml",
+      "title": "10. Securing the evidence"
+    },
+    {
+      "href": "EPUB/xhtml/raw/s5pk56.xhtml",
+      "title": "11. Chain of Custody"
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page12.xhtml",
+      "title": "12. Interviewing Suspects"
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page13.xhtml",
+      "title": "13. Financial Investigations"
+    },
+    {
+      "href": "EPUB/xhtml/htmlvaota/page14.xhtml",
+      "title": "14. Sharing Intelligence"
+    },
+    {
+      "href": "EPUB/xhtml/raw/secnw7.xhtml",
+      "title": "15. Transporting, Storage and Disposing of Chemica.."
+    },
+    {
+      "href": "EPUB/xhtml/raw/s76zdl.xhtml",
+      "title": "Back Cover"
+    }
+  ]
+}
