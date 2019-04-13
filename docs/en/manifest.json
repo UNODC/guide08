@@ -4,23 +4,23 @@
   ],
   "metadata": {
     "@type": "http://schema.org/Book",
-    "title": "Untitled Book",
-    "identifier": "urn:uuid:73b0c865-811c-6757-dde6-9ffdb2bafc33",
+    "title": "Smuggling of Chemical Waste: A field guide for frontline officers",
+    "identifier": "urn:uuid:472cf403-4dd5-54a1-3c42-1f5a306ba931",
     "author": {
-      "name": "Kotobee"
+      "name": "N/A"
     },
     "publisher": {
-      "name": "N/A"
+      "name": "United Nations Office on Drugs and Crime"
     },
     "language": [
       "en"
     ],
-    "modified": "2019-04-03T19:52:13.207Z",
-    "description": "No description available",
+    "modified": "2019-02-07T01:39:11.418Z",
+    "description": "<p>Copyright &copy; United Nations Office on Drugs and Crime, 2018. This field guide was produced by the United Nations Office on Drugs and Crime, Regional Office for Southeast Asia and the Pacific, in Bangkok, Thailand.&nbsp;</p>\n\n<p>This is not an official document of the United Nations. The designations employed and the presentation of the material in this document do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations Office on Drugs and Crime concerning the legal status of any country, territory, city or area of its authorities, or concerning the delimitations of its frontiers and boundaries.</p>\n\n<p>UNODC would like to recognize the contribution of the Government of Australia, the Government of Canada and the Government of the United States of America.</p>\n",
     "rendition": {
       "layout": "reflowable"
     },
-    "rights": "Kotobee"
+    "rights": "United Nations Office on Drugs and Crime"
   },
   "readingOrder": [
     {
