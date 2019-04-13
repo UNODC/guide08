@@ -24,140 +24,140 @@
   },
   "readingOrder": [
     {
-      "href": "EPUB/xhtml/raw/page-1.xhtml",
+      "href": "content/xhtml/title.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/raw/s2a4qa.xhtml",
+      "href": "https://fieldguides.github.io/library/en/content/copyright.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/raw/s3zbw6.xhtml",
+     "href": "https://fieldguides.github.io/library/en/content/frontpage.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/raw/sgozdj.xhtml",
+      "href": "content/xhtml/introduction.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page.xhtml",
+      "href": "content/xhtml/chapter1.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page1.xhtml",
+      "href": "content/xhtml/chapter2.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page3.xhtml",
+      "href": "content/xhtml/chapter3.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page5.xhtml",
+      "href": "content/xhtml/chapter4.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page6.xhtml",
+      "href": "content/xhtml/chapter5.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page7.xhtml",
+      "href": "content/xhtml/chapter6.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page8.xhtml",
+      "href": "content/xhtml/chapter7.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page9.xhtml",
+      "href": "content/xhtml/chapter8.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page10.xhtml",
+      "href": "content/xhtml/chapter9.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/raw/skv544.xhtml",
+      "href": "content/xhtml/chapter10.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/raw/s5pk56.xhtml",
+      "href": "content/xhtml/chapter11.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page12.xhtml",
+      "href": "content/xhtml/chapter12.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page13.xhtml",
+      "href": "content/xhtml/chapter13.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page14.xhtml",
+      "href": "content/xhtml/chapter14.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/raw/secnw7.xhtml",
+      "href": "content/xhtml/chapter15.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/raw/s76zdl.xhtml",
+      "href": "https://fieldguides.github.io/library/en/content/backcover.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
@@ -166,27 +166,11 @@
   ],
   "resources": [
     {
-      "href": "EPUB/xhtml/raw/contents.xhtml",
-      "type": "application/xhtml+xml",
-      "rel": "contents"
-    },
-    {
-      "href": "EPUB/xhtml/raw/contents.ncx",
-      "type": "application/x-dtbncx+xml"
-    },
-    {
-      "href": "EPUB/imgs/defaultCover.png",
-      "type": "image/png",
-      "height": 324,
-      "width": 250,
-      "rel": "cover"
-    },
-    {
-      "href": "EPUB/css/base.css",
+      "href": "../resources/css/base.css",
       "type": "text/css"
     },
     {
-      "href": "EPUB/css/global.css",
+      "href": "../resources/css/global.css",
       "type": "text/css"
     },
     {
@@ -196,83 +180,83 @@
   ],
   "toc": [
     {
-      "href": "EPUB/xhtml/raw/page-1.xhtml",
+      "href": "content/xhtml/title.xhtml",
       "title": "Title"
     },
     {
-      "href": "EPUB/xhtml/raw/s2a4qa.xhtml",
+      "href": "https://fieldguides.github.io/library/en/content/copyright.xhtml",
       "title": "Inside Cover"
     },
     {
-      "href": "EPUB/xhtml/raw/s3zbw6.xhtml",
+      "href": "https://fieldguides.github.io/library/en/content/frontpage.xhtml",
       "title": "Front Page"
     },
     {
-      "href": "EPUB/xhtml/raw/sgozdj.xhtml",
+      "href": "content/xhtml/introduction.xhtml",
       "title": "Introduction"
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page.xhtml",
+      "href": "content/xhtml/chapter1.xhtml",
       "title": "1. What is Chemical Waste"
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page1.xhtml",
+      "href": "content/xhtml/chapter2.xhtml",
       "title": "2. International Legal Frameworks Relating to Chem.."
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page3.xhtml",
+      "href": "content/xhtml/chapter3.xhtml",
       "title": "3. National Legislation"
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page5.xhtml",
+      "href": "content/xhtml/chapter4.xhtml",
       "title": "4. Investigating Chemical Waste Crimes"
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page6.xhtml",
+      "href": "content/xhtml/chapter5.xhtml",
       "title": "5. Sources of Information"
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page7.xhtml",
+      "href": "content/xhtml/chapter6.xhtml",
       "title": "6. The Internet and Smuggling Chemical Waste"
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page8.xhtml",
+      "href": "content/xhtml/chapter7.xhtml",
       "title": "7. Risk Profiling Chemical Waste Shipments"
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page9.xhtml",
+      "href": "content/xhtml/chapter8.xhtml",
       "title": "8. Identification and Inspection of Chemical Waste"
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page10.xhtml",
+      "href": "content/xhtml/chapter9.xhtml",
       "title": "9. The Search Kit"
     },
     {
-      "href": "EPUB/xhtml/raw/skv544.xhtml",
+      "href": "content/xhtml/chapter10.xhtml",
       "title": "10. Securing the evidence"
     },
     {
-      "href": "EPUB/xhtml/raw/s5pk56.xhtml",
+      "href": "content/xhtml/chapter11.xhtml",
       "title": "11. Chain of Custody"
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page12.xhtml",
+      "href": "content/xhtml/chapter12.xhtml",
       "title": "12. Interviewing Suspects"
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page13.xhtml",
+      "href": "content/xhtml/chapter13.xhtml",
       "title": "13. Financial Investigations"
     },
     {
-      "href": "EPUB/xhtml/htmlvaota/page14.xhtml",
+      "href": "content/xhtml/chapter14.xhtml",
       "title": "14. Sharing Intelligence"
     },
     {
-      "href": "EPUB/xhtml/raw/secnw7.xhtml",
+      "href": "content/xhtml/chapter15.xhtml",
       "title": "15. Transporting, Storage and Disposing of Chemica.."
     },
     {
-      "href": "EPUB/xhtml/raw/s76zdl.xhtml",
+      "href": "https://fieldguides.github.io/library/en/content/backcover.xhtml",
       "title": "Back Cover"
     }
   ]
